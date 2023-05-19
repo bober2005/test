@@ -10,8 +10,25 @@
   color: #fff;
   text-shadow: 0px 4px 70px rgba(0, 0, 0, 0.1);
 }
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+
+.form {
+  display: none;
+}
+
+.txt-fresh-box {
+  display: none;
+}
+=======
+>>>>>>> Stashed changes
 =======
 .titel-fresh-box {
     color: red;
 }
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream
+=======
+>>>>>>> 90ad7974629fb1ca71782b3d7e41549736fca75f
 >>>>>>> Stashed changes
